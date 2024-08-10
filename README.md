@@ -1,6 +1,6 @@
 # Hi! Yes, I am Bárbara
 
-Olã! Me chamo Bárbara, sou formada em Gestão de Políticas Públicas e  entusiasta da área de tecnologia. Esta é minha versão dev!
+Olá! Me chamo Bárbara, sou formada em Gestão de Políticas Públicas e graduanda em Analise e Desenvolvimento de Sistemas.   Entusiasta da área de tecnologia. Esta é minha versão dev!
 ## Redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-kelly-l-oliveira-b22632132/)

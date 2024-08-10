@@ -1,6 +1,13 @@
-# Hi! Yes, I am Bárbara
+# 👋 Olá, sou Bárbara
 
-Olá! Me chamo Bárbara, sou formada em Gestão de Políticas Públicas e graduanda em Analise e Desenvolvimento de Sistemas.   Entusiasta da área de tecnologia. Esta é minha versão dev!
+Sou estudante de graduação em Analise e desenvolvimento de sistemas, graduada em Gestão Publica. Tenho me dedicado a criar soluções inovadoras e eficientes, sempre buscando melhorar minhas habilidades e aprender novas tecnologias. 
+
+💡 O que me motiva?
+Estou sempre em busca de desafios que me permitam combinar minha paixão por código com minha criatividade. Acredito no poder da tecnologia para transformar ideias em realidade, e minha missão é contribuir para projetos que causem um impacto positivo.
+
+🎯 Objetivo Profissional:
+Estou em busca de oportunidades onde eu possa aplicar minhas habilidades em desenvolvimento de software, colaborar com equipes talentosas e continuar a crescer como profissional. Se você está à procura de alguém que seja comprometido com a excelência e a inovação, vamos conversar!
+
 ## Redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bárbara-kelly-l-b22632132)

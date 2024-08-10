@@ -3,7 +3,7 @@
 Olá! Me chamo Bárbara, sou formada em Gestão de Políticas Públicas e graduanda em Analise e Desenvolvimento de Sistemas.   Entusiasta da área de tecnologia. Esta é minha versão dev!
 ## Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/bárbara-kelly-l-b22632132)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bárbara-kelly-l-b22632132)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarbarakellyO)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BarbarakellyO&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)

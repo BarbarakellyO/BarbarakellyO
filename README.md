@@ -1,15 +1,21 @@
-# 👋 Olá, sou Bárbara
+# Olá, eu sou a Bárbara! 👋
 
-Sou estudante de graduação em Analise e desenvolvimento de sistemas, graduada em Gestão de Políticas Públicas. Tenho me dedicado a criar soluções inovadoras e eficientes, sempre buscando melhorar minhas habilidades e aprender novas tecnologias. 
+**Data Science & AI Student | Public Policy Specialist | MQL5 Developer**
 
-💡 O que me motiva?
+Transformo dados complexos em decisões estratégicas e ferramentas automatizadas. Atualmente, concilio a minha experiência na gestão de políticas públicas no Senado Federal com o desenvolvimento de algoritmos quantitativos e inteligência artificial.
 
-Estou sempre em busca de desafios que me permitam combinar minha paixão por código com minha criatividade. Acredito no poder da tecnologia para transformar ideias em realidade, e minha missão é contribuir para projetos que causem um impacto positivo.
+### 🛠️ Tecnologias e Habilidades (Tech Stack)
+* **Linguagens:** Python, MQL5, SQL.
+* **Data Science:** Análise de Dados, Visualização de Dados (Dashboards), Inteligência Artificial.
+* **Gestão:** Metodologias Ágeis, Gestão de Projetos Públicos.
+* **Ferramentas:** MetaTrader 5, GitHub, Excel Avançado.
 
-🎯 Objetivo Profissional:
+### 📁 Projetos em Destaque (Featured Projects)
+* **[Trading-MQL5]:** Desenvolvimento de indicadores quantitativos para análise de volume e tendência (XAUUSD).
+* **[Public-Policy-Analytics]:** Análise de dados governamentais para insights estratégicos.
 
-Estou em busca de oportunidades onde eu possa aplicar minhas habilidades em desenvolvimento de software, colaborar com equipes talentosas e continuar a crescer como profissional. Se você está à procura de alguém que seja comprometido com a excelência e a inovação, vamos conversar!
-
+---
+📫 **Como me encontrar:** 
 ## Redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bárbara-kelly-l-b22632132)
